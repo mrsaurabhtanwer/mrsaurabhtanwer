@@ -29,7 +29,7 @@
 
 ## 📂 Featured Projects
 
-### 📊 [COVID-19 Dashboard](https://github.com/mrsaurabhtanwer/covid19-dashboard)
+### 📊 [COVID-19 Dashboard](https://github.com/mrsaurabhtanwer/Covid-Data-Analysis-Project/tree/main)
 - Developed an interactive Power BI dashboard for global COVID-19 data.
 - Used Python for data cleaning and Excel for preprocessing.
 
