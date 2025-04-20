@@ -37,7 +37,7 @@
 - Built a classification model to predict customer churn.
 - Applied Logistic Regression and Decision Trees with model evaluation.
 
-### 🛒 [Retail Sales Forecasting](https://github.com/mrsaurabhtanwer/retail-sales-forecast)
+### 🛒 [Retail Sales Forecasting](https://github.com/mrsaurabhtanwer/Sales-forcasting/blob/main/notebook-sales-forecasting.ipynb)
 - Time-series forecasting using ARIMA and Prophet.
 - Predicted sales trends for better inventory planning.
 
