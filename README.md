@@ -10,7 +10,7 @@
 🔍 **About Me**
 
 - 🔁 Transitioning from Accounting to Data Science  
-- 👨‍💼 3+ years as Accountant @ Deccora Interiors  
+- 👨‍💼 3+ years as Accountant   
 - 🎓 B.Sc (2019–2022) | Executive PG in Data Science & AI – IIT Roorkee (2023–2025)  
 - 📊 Skilled in Python, SQL, Power BI, Excel, Machine Learning  
 - 🚀 Passionate about solving real-world problems using data  
@@ -89,8 +89,8 @@ Analysis and visualization of COVID-19 global data using Python and Tableau for 
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaurabhtanwer&layout=compact&theme=radical" 
-    width=1000px
-    height=300px
+    width=2000px
+    height=200px
     />
 </p>
 
