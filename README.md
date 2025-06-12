@@ -89,7 +89,7 @@ Analysis and visualization of COVID-19 global data using Python and Tableau for 
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsaurabhtanwer&theme=github_dark" width=50% />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsaurabhtanwer&theme=github_dark" width=100% />
 </p>
 
  
