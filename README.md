@@ -1,67 +1,64 @@
-<h1 align="center">Hi, I'm Saurabh Tanwer 👋</h1>
+<h1 align="center">Hi 👋, I'm Saurabh Tanwer</h1>
+<h3 align="center">Aspiring Data Scientist | 3+ Yrs in Accounting | Python • SQL • Power BI</h3>
 
 <p align="center">
-  🌟 Aspiring Data Scientist | 📊 Ex-Accountant | 🤖 AI & ML Enthusiast  
-  📍 Faridabad, Haryana | 📧 saurabhtanwer.com@gmail.com  
-  📈 Learning with IIT Roorkee (via Intellipaat)
+  <img src="https://komarev.com/ghpvc/?username=mrsaurabhtanwer&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🔍 About Me
+🔍 **About Me**
 
-- 🎓 Executive PG in Data Science & AI – IIT Roorkee (Nov 2023 – Mar 2025)
-- 🧾 3+ years of experience in Accounting | Tally Prime Expert | Financial Analysis
-- 🔁 Transitioning into Data Science: Python, SQL, Power BI, Machine Learning
-- 🛠️ I enjoy solving real-world business problems with data
-- 🎯 Always learning, building, and growing
-
----
-
-## 🧠 Skills & Tools
-
-- **Languages:** Python, SQL, DAX
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **BI & Visualization:** Power BI, Excel, Jupyter Notebook
-- **Tools & Platforms:** Git, GitHub, VS Code, Tally Prime
+- 🔁 Transitioning from Accounting to Data Science  
+- 👨‍💼 3+ years as Accountant @ Deccora Interiors  
+- 🎓 B.Sc (2019–2022) | Executive PG in Data Science & AI – IIT Roorkee (2023–2025)  
+- 📊 Skilled in Python, SQL, Power BI, Excel, Machine Learning  
+- 🚀 Passionate about solving real-world problems using data  
+- 💬 Ask me about **finance analytics, dashboards, or beginner DS help**
 
 ---
 
-## 📂 Featured Projects
-
-### 📊 [COVID-19 Dashboard](https://github.com/mrsaurabhtanwer/Covid-Data-Analysis-Project/tree/main)
-- Developed an interactive Power BI dashboard for global COVID-19 data.
-- Used Python for data cleaning and Excel for preprocessing.
-
-### 📉 [Customer Churn Prediction](https://github.com/mrsaurabhtanwer/churn-prediction)
-- Built a classification model to predict customer churn.
-- Applied Logistic Regression and Decision Trees with model evaluation.
-
-### 🛒 [Retail Sales Forecasting](https://github.com/mrsaurabhtanwer/Sales-forcasting/blob/main/notebook-sales-forecasting.ipynb)
-- Time-series forecasting using ARIMA and Prophet.
-- Predicted sales trends for better inventory planning.
+🧠 **Currently Working On**
+- Building real-world data projects in retail, healthcare, and finance  
+- Mastering machine learning and time series forecasting  
+- Improving Git, GitHub, and cloud-based deployment skills
 
 ---
 
-## 📈 GitHub Stats
+📌 **Projects Highlights**
+
+| Project | Tools | Summary |
+|--------|-------|---------|
+| 🦠 [COVID-19 Dashboard](https://github.com/mrsaurabhtanwer/COVID-PowerBI-Dashboard) | Power BI, Python | Live global tracker of COVID-19 stats |
+| 🛍️ Retail Sales Forecasting | Python, Prophet, ARIMA | Time series analysis to predict monthly sales |
+| 🧾 Customer Churn Prediction | Python, Sklearn | Identified churn risks using classification models |
+| 📊 Excel & Tally Reporting | Excel, Tally | Automated MIS reports and business KPIs for management |
+
+---
+
+🛠 **Tech Stack & Tools**
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-informational?style=flat-square&logo=mysql)
+![Power BI](https://img.shields.io/badge/-PowerBI-darkorange?style=flat-square&logo=powerbi)
+![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=jupyter)
+
+---
+
+📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsaurabhtanwer&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsaurabhtanwer&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrsaurabhtanwer&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsaurabhtanwer&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaurabhtanwer&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saurabh-tanwer-accountant-datascience/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:saurabhtanwer.com@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/mrsaurabhtanwer">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
-  </a>
-</p>
+📬 **Connect With Me**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-tanwer-accountant-datascience/)
+- 💻 [GitHub](https://github.com/mrsaurabhtanwer)
