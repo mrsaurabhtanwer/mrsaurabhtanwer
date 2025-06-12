@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tanwer</h1>
 <h3 align="center">Aspiring Data Scientist | 3+ Yrs in Accounting | Python • SQL • Power  BI | 🎓 Data Science & AI Certified</h3>
-<h1 align="center">👋 Hi, I'm Saurabh Tanwer</h1>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrsaurabhtanwer&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -56,6 +54,16 @@ Advanced SQL queries used to analyze sales trends, top artists, and customer beh
 Analysis and visualization of COVID-19 global data using Python and Tableau for insights into infection and recovery rates.
 
 ---
+🛠 **Tech Stack & Tools**
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-informational?style=flat-square&logo=mysql)
+![Power BI](https://img.shields.io/badge/-PowerBI-darkorange?style=flat-square&logo=powerbi)
+![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=jupyter)
+
+---
 
 ## 📚 Certifications & Internships
 
@@ -100,16 +108,7 @@ Example:
 
 ---
 
-🛠 **Tech Stack & Tools**
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-informational?style=flat-square&logo=mysql)
-![Power BI](https://img.shields.io/badge/-PowerBI-darkorange?style=flat-square&logo=powerbi)
-![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=jupyter)
-
----
 
 📈 **GitHub Stats**
 
@@ -121,8 +120,3 @@ Example:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaurabhtanwer&layout=compact&theme=radical" width="48%" />
 </p>
 
----
-
-📬 **Connect With Me**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-tanwer-accountant-datascience/)
-- 💻 [GitHub](https://github.com/mrsaurabhtanwer)
