@@ -97,7 +97,7 @@ Analysis and visualization of COVID-19 global data using Python and Tableau for 
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-tanwer-accountant-datascience/)
 - 🧠 [GitHub Projects](https://github.com/mrsaurabhtanwer)
-- 📫 Email: saurabhtanwer.com@gmail.com
+- 📫 Email: souarabhtanwer910.com@gmail.com
 
 ---
 
