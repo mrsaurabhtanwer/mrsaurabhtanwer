@@ -87,10 +87,10 @@ Analysis and visualization of COVID-19 global data using Python and Tableau for 
   <img src="https://github-readme-stats.vercel.app/api?username=mrsaurabhtanwer&show_icons=true&theme=radical" alt="Saurabh's GitHub Stats" width="48%"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsaurabhtanwer&theme=radical" alt="GitHub Streak" width="50.8%"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaurabhtanwer&layout=compact&theme=radical" 
-    width=50%
-    height=400 
+    width=200px
+    height=200px
     />
 </p>
 
