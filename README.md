@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tanwer</h1>
-<h3 align="center">Aspiring Data Scientist | 3+ Yrs in Accounting | Python • SQL • Power BI</h3>
+<h3 align="center">Aspiring Data Scientist | 3+ Yrs in Accounting | Python • SQL • Power  BI | 🎓 Data Science & AI Certified</h3>
+<h1 align="center">👋 Hi, I'm Saurabh Tanwer</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrsaurabhtanwer&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -23,11 +25,6 @@
 - Mastering machine learning and time series forecasting  
 - Improving Git, GitHub, and cloud-based deployment skills
 
----
-
-
-<h1 align="center">👋 Hi, I'm Saurabh Tanwer</h1>
-<p align="center">💼 Aspiring Data Scientist | 📊 Ex-Accountant | 🎓 Data Science & AI Certified</p>
 
 ---
 
