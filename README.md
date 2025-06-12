@@ -70,7 +70,7 @@ Analysis and visualization of COVID-19 global data using Python and Tableau for 
 ### 🏅 Badges & Certificates
 ![Microsoft Azure Certificate](https://img.shields.io/badge/Microsoft%20Azure-Internship-blue)
 ![Infosys Internship](https://img.shields.io/badge/Infosys-Internship-blue)
-![Deltioo Internship](https://img.shields.io/badge/Deltioo-Data_Analytics-yellowgreen)
+![Deltioo Internship](https://img.shields.io/badge/Deloitte-Data_Analytics-yellowgreen)
 ![Intellipaat Data Science](https://img.shields.io/badge/Intellipaat-Data_Science_&_AI-purple)
 
 <!-- Add more certifications and badges here -->
