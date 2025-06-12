@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tanwer</h1>
-<h3 align="center">Aspiring Data Scientist | 3+ Yrs in Accounting | 💻 Python • 🧮 SQL • 📊 Power BI • 🤖 Machine Learning • 🧠 Artificial Intelligence • 🕸 Deep Learning • 🔥 PySpark
- | 🎓 Data Science & AI Certified</h3>
+<h3 align="center">🎯 Aspiring Data Scientist | 📚 3+ Yrs in Accounting | 💻 Python • 🧮 SQL • 📊 Power BI • 🤖 Machine Learning • 🧠 Artificial Intelligence • 🕸 Deep Learning • 🔥 PySpark| 🎓 Data Science & AI Certified</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrsaurabhtanwer&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
