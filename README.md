@@ -20,10 +20,6 @@
 
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrsaurabhtanwer.mrsaurabhtanwer&"  />
-</div>
-
 <h1 align="center">Hi 👋, I'm Saurabh Tanwer</h1>
 <h3 align="center">🎯 Aspiring Data Scientist | 📚 3+ Yrs in Accounting | 💻 Python • 🧮 SQL • 📊 Power BI • 🤖 Machine Learning • 🧠 Artificial Intelligence • 🕸 Deep Learning • 🔥 PySpark| 🎓 Data Science & AI Certified</h3>
 
