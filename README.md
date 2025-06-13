@@ -146,14 +146,15 @@ Analysis and visualization of COVID-19 global data using Python and Tableau for 
 
 <img src="https://raw.githubusercontent.com/mrsaurabhtanwer/mrsaurabhtanwer/output/snake.svg" alt="Snake animation" />
 
-🛠 **Tech Stack & Tools**
+## 🛠️ Tech Stack
+```text
+Languages   : Python, SQL, R  
+Libraries   : Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFlow  
+Tools       : Power BI, Excel, Git, Jupyter, VSCode  
+Databases   : MySQL, SQLite, PostgreSQL  
+Platforms   : GitHub, Kaggle, Google Colab
+```
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-informational?style=flat-square&logo=mysql)
-![Power BI](https://img.shields.io/badge/-PowerBI-darkorange?style=flat-square&logo=powerbi)
-![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=jupyter)
 
 ---
 
@@ -203,8 +204,22 @@ Analysis and visualization of COVID-19 global data using Python and Tableau for 
 - 📫 Email: souarabhtanwer910.com@gmail.com
 
 ---
+## 💬 Let's Collaborate!
+> Open to freelance, teaching, and data consulting projects. Let’s connect!
 
-## 🗂️ Future Badge/Certificate Comment Section
+---
+
+## 🙌 Support & Feedback
+If you like my work, consider starring ⭐ my repos or buying me a coffee ☕  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/saurabhtanwer)
+
+---
+## 📌 Footer
+<p align="center">
+  Built with 💻 by <b>Saurabh Tanwer</b> | Let's turn ideas into impact 🚀
+</p>
+
+<!--## 🗂️ Future Badge/Certificate Comment Section
 
 <!--
 📌 Add new badges/certificates below this line as you complete them
