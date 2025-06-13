@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
 
@@ -91,6 +91,7 @@
 <img src="https://raw.githubusercontent.com/mrsaurabhtanwer/mrsaurabhtanwer/output/snake.svg" alt="Snake animation" />
 
 ###
+<h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsaurabhtanwer&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph" /> <br>
