@@ -4,7 +4,7 @@
   <img height="150" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif"  />
 </div>
 
-#
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -12,13 +12,13 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-##
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mrsaurabhtanwer.mrsaurabhtanwer&"  />
 </div>
 
-#
+
 
 <h1 align="center">Hi 👋, I'm Saurabh Tanwer</h1>
 <h3 align="center">🎯 Aspiring Data Scientist | 📚 3+ Yrs in Accounting | 💻 Python • 🧮 SQL • 📊 Power BI • 🤖 Machine Learning • 🧠 Artificial Intelligence • 🕸 Deep Learning • 🔥 PySpark| 🎓 Data Science & AI Certified</h3>
