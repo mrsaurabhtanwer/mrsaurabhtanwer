@@ -20,7 +20,9 @@
 
 ###
 
-<h3 align="center">Hi 👋, I'm Saurabh Tanwer<br><br>🎯 Aspiring Data Scientist | 📚 3+ Yrs in Accounting | 💻 Python • 🧮 SQL • 📊 Power BI • 🤖 Machine Learning • 🧠 Artificial Intelligence • 🕸 Deep Learning • 🔥 PySpark| 🎓 Data Science & AI Certified</h3>
+<h1 align="center">Hi 👋, I'm Saurabh Tanwer</h1>
+<h3 align="center">🎯 Aspiring Data Scientist | 📚 3+ Yrs in Accounting | 💻 Python • 🧮 SQL • 📊 Power BI • 🤖 Machine Learning • 🧠 Artificial Intelligence • 🕸 Deep Learning • 🔥 PySpark| 🎓 Data Science & AI Certified</h3>
+
 
 ###
 
